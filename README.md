@@ -25,7 +25,7 @@ The DAO classes have the CRUD necesarry to insert, delete or update the operatio
 
 And this is an example of how design patterns help us to make our code better, Facade provides us with a unified and simple class to access a more complex system.
 
-So how this works (in case you want to prove it):
+So this is how it works (in case you want to test it):
 
 *We are going to send from our frontend a request with JSON by POST with the next structure->
 
