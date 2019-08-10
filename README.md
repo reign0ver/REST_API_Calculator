@@ -5,7 +5,7 @@ The calculador has the basic operations addition, subtraction, multiplication an
 
 We also use the 'Facade Design Pattern' and 'Mediator Design Pattern'.  Yes, we use both of them, but how? Well, i'm gonna explain it to you because this is a weird mix.
 
-First of all I'm going to show how the flow in this mix of patterns:
+First of all I'm going to show how the flow works in this mix of patterns:
 
 *The entry point of the app is the Facade
 *Then, Facade calls the Mediator (we can have several Mediators and each of them can be grouped by a specific funcionality)
