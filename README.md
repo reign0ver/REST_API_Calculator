@@ -10,7 +10,9 @@ First of all I'm going to show how the flow works in this mix of patterns:
 API calls -> Facade -> Mediator -> DAO -> VO
 
 *The entry point of the app is the Facade
+
 *Then, Facade calls the Mediator (we can have several Mediators and each of them can be grouped by a specific funcionality)
+
 *The Mediator does whatever he has to do, and add to the DataBase
 
 Well, once we get how the flow works I'm going to dive deeper.
