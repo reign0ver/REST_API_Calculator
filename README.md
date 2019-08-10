@@ -51,5 +51,6 @@ http://localhost:8085/api/sumar/binario
 http://localhost:8085/api/restar/binario
 
 You can test it with Postman!
+It's a Maven Project, also remember to download Jetty
 
 Hope you guys like it and help me to improve the code.  Thanks!
