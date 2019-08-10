@@ -39,8 +39,11 @@ So how this works (in case you want to prove it):
 *Here you are the endpoints (port:8081)->
 
 http://localhost:8085/api/sumar/decimal
+
 http://localhost:8085/api/restar/decimal
+
 http://localhost:8085/api/sumar/binario
+
 http://localhost:8085/api/restar/binario
 
 You can test it with Postman!
