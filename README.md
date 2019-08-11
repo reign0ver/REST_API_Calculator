@@ -34,7 +34,7 @@ So this is how it works (in case you want to test it):
 "numero2":"3"
 }
 
-*and we're going to get a JSON response with the next structure->
+*and we're going to send a JSON response with the next structure->
 
 {
 "resultado": "2"
@@ -42,13 +42,13 @@ So this is how it works (in case you want to test it):
 
 *Here you are the endpoints (port:8081)->
 
-http://localhost:8085/api/sumar/decimal
+http://localhost:8085/api/sumar
 
-http://localhost:8085/api/restar/decimal
+http://localhost:8085/api/restar
 
-http://localhost:8085/api/sumar/binario
+http://localhost:8085/api/multiplicar
 
-http://localhost:8085/api/restar/binario
+http://localhost:8085/api/dividir
 
 You can test it with Postman!
 It's a Maven Project, also remember to download Jetty
