@@ -27,14 +27,14 @@ And this is an example of how design patterns help us to make our code better, F
 
 So this is how it works (in case you want to test it):
 
-*We are going to send from our frontend a request with JSON by POST with the next structure->
+*We are going to send from our frontend a request using JSON by POST with the next structure->
 
 {
 "numero1":"5",
 "numero2":"3"
 }
 
-*and we're going to send a JSON response with the next structure->
+*and we're going to get a JSON response with the next structure->
 
 {
 "resultado": "2"
