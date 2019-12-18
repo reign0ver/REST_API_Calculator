@@ -1,5 +1,5 @@
 # REST_API_Calculator
-Here we have an example of an REST API in Java.  Using Jersey as an implementation of JAX-RS and Jetty as a HTTP web server.
+Here we have an example of an REST API made in Java.  Using Jersey as an implementation of JAX-RS and Jetty as a HTTP web server.
 
 The calculador has the basic operations addition, subtraction, multiplication and division.
 
