@@ -21,7 +21,7 @@ As you can see (if you check the code), Facade only has an instance of Mediator 
 
 Let's see an example.  We have a calculator view, and we are going to add two numbers, for example 2 plus 2.  The REST service is going to call the EntryPoint and this is the Facade, then Facade calls the Mediator and this do the operation called, in this case, addition.  Inside of the Mediator method, we do another things, like call the class DAO, which is another design pattern and do his respective database insertion.
 
-The DAO classes have the CRUD necesarry to insert, delete or update the operations from de database.
+The DAO classes have the CRUD necesarry to insert, delete or update the operations from the database.
 
 And this is an example of how design patterns help us to make our code better, Facade provides us with a unified and simple class to access a more complex system.
 
